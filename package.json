@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "@iconify/icons-eva": "^1.2.2",
-    "@iconify/icons-mdi": "^1.2.12",
+    "@iconify/icons-mdi": "^1.2.27",
     "@types/enzyme-to-json": "^1.5.4",
     "@types/react-qr-reader": "^2.1.4",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
